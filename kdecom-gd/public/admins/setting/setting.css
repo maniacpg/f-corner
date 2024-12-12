@@ -1,0 +1,19 @@
+.dropdown-menu > li >a{
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 20px;
+    color: #333333;
+    white-space: nowrap;
+
+}
+.dropdown-toggle:hover{
+    background: #f2b500;
+}
+.dropdown-toggle{
+    background: #00A7AA;
+}
+.dropdown-menu > li >a:hover{
+    background: #f0ad4e;
+}
